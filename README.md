@@ -43,6 +43,8 @@ SQL and Excel.
 
 DATA OVERVIEW - 
 
+<img width="594" alt="schema_diagram" src="https://github.com/kiranndeep/SQL_Music_Store_Analysis_EDA/assets/159169837/9b28b7f0-163c-4064-ac4c-63217348582e">
+
 
 
 
